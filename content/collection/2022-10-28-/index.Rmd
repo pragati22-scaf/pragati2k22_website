@@ -1,0 +1,28 @@
+---
+title: 'Painting Submissions'
+author: ''
+date: '2022-10-28'
+slug: []
+categories: []
+tags: []
+description: ~
+draft: false
+layout: standard
+show_title_as_headline: true
+---
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(googlesheets4)
+library(htmlwidgets)
+library(slickR)
+library(tidyverse)
+
+x <- read_sheet("https://docs.google.com/spreadsheets/d/1pICSEmyqTJ1y-93B5VuTYQp-C_CRTVK-m-8TfVPr0so/edit?usp=sharing")
+
+x <- x %>% filter(type == "painting")
+  
+slickR(obj = x$url, height = 400, width = "95%") %synch%
+( slickR(x$name, slideType = 'p') + settings(arrows = FALSE) )
+ 
+```
