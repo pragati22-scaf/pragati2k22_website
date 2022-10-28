@@ -4,7 +4,7 @@ cascade:
   layout: single-series
   sidebar:
     author: 
-    description: "Sometimes you want to just apprecite ART, in its various forms. \n This space is meant to be a digital garden to nurture budding artists among us.\n"
+    description: "Sometimes you want to just appreciate ART, in its various forms. \n This space is meant to be a digital garden to nurture budding artists among us.\n"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true
