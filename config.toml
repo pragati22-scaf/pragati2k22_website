@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://pragati2k22.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Pragati"
@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "SCTIMST"
   description = "A modern, and beautiful website for Pragati2K22, the students fest of SCTIMST, Trivandrum."
   favicon = "/images/pragati_gray_text_logo.ico"
-  logo = "/images/pragati_gray_text_logo.png"
+  logo = "/images/pragati_hands.png"
   mainSections = ["project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
