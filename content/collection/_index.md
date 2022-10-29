@@ -7,7 +7,7 @@ cascade:
     description: "Sometimes you want to just appreciate ART, in its various forms. \n This space is meant to be a digital garden to nurture budding artists among us.\n"
     show_author_byline: true
     show_post_date: true
-    show_sidebar_adunit: true
+    show_sidebar_adunit: false
     text_contents_label: On this page
     text_link_label: ""
     text_link_url: ""

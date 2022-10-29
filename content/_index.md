@@ -8,7 +8,7 @@ image_left: true
 images:
 show_action_link: true
 show_social_links: true
-subtitle: Venue - 
+subtitle: Venue - COK Auditorium, Medical College Campus, Trivandrum
 text_align_left: true
 title: | 
   Pragati - 5th Nov

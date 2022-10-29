@@ -1,5 +1,5 @@
 ---
-title: Photography Submissions New
+title: Photography Submissions
 author: ''
 date: '2022-10-29'
 slug: []
@@ -30,11 +30,17 @@ You have some to share too? Please email them to [scaf2k22\@gmail.com](mailto:sc
     
     {{< figure src="/carousel/IMG_20181222_174523.jpg" alt="" caption="" >}}
     
-<h6 class="ttu tracked black-30 pv3 mt5 bt b--black-10">Dr. Tony Lawerence </h6>
+<h6 class="ttu tracked black-30 pv3 mt5 bt b--black-10">Tony Lawrence </h6>
 
     {{< figure src="/carousel/Tony-SCAF-photo.jpg" alt="" caption="God's Own Evening" >}}
     
 
+<h6 class="ttu tracked black-30 pv3 mt5 bt b--black-10">Aishwarya Babu </h6>
 
-
-
+    {{< figure src="/carousel/Vagamon.png" alt="" caption="" >}}
+    
+    {{< figure src="/carousel/Cracker.png" alt="" caption="" >}}
+    
+    {{< figure src="/carousel/Dragonfly.png" alt="" caption="" >}}
+    
+    {{< figure src="/carousel/Hachiko.png" alt="" caption="" >}}

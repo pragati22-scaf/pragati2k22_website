@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3  # set to zero to exclude
 show_intro: true
 intro: |
-  <img src="/images/pragati_col_black_text.png" alt="Girl in a jacket" width="500" >
+  <img src="/images/pragati_col_black_text.png" alt="Pragati 2K22" width="500" >
   
   Pragati is a cultural extravaganza, that brings together the faculty, staff and students of SCTIMST, Trivandrum. True to its name, Pragati is much more than just a display of arts and talent. It stands for the prosperity and growth of the Sree Chitra as a community!.
    
