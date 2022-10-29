@@ -3,8 +3,8 @@ action_label: Know More &rarr;
 action_link: /about
 action_type: text
 description: |
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/6i6aB6uvHu4?autoplay=0&loop=0&playlist=6i6aB6uvHu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-image_left: true
+  <iframe width="600" height="340" src="https://www.youtube.com/embed/6i6aB6uvHu4?autoplay=0&loop=0&playlist=6i6aB6uvHu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+image_left: false
 images:
 show_action_link: true
 show_social_links: true
