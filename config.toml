@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Students Forum"
   orgLocal = "SCTIMST"
   description = "A modern, and beautiful website for Pragati2K22, the students fest of SCTIMST, Trivandrum."
-  favicon = "/images/pragati_gray_text_logo.ico"
-  logo = "/images/pragati_hands.png"
+  favicon = "/images/pragati_gray_text_new.png"
+  logo = "/images/pragati_gray_text_new.png"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
