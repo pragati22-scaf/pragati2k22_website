@@ -3,8 +3,6 @@ author: Student Name
 categories:
 - cultural
 - solo
-date: "2022-11-04"
-date_end: ""
 draft: false
 event: singing
 excerpt: Here is the details of the program.

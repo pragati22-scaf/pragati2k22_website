@@ -15,9 +15,9 @@ description: |
 layout: list
 show_author_byline: true
 show_button_links: true
-show_post_date: true
+show_post_date: false
 show_post_thumbnail: true
-show_post_time: true
+show_post_time: false
 sidebar:
   author: RStudio
   description: "This is a list for your talks, workshops, or \nother events with a
