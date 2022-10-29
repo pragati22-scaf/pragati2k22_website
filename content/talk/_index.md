@@ -24,7 +24,7 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /cultural/index.xml
-  title: Cultural Programs
+  title: Cultural Programs 
 title: Cultural Programs
 ---
 
