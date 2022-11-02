@@ -119,30 +119,30 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   #[[menu.header]]
-   # name = "Blog"
-   # title = "Blog"
-   # url = "/blog/"
-   # weight = 2
+  #  name = "Sponsors1"
+  #  title = "Sponsors"
+  #  url = "/blog/"
+  #  weight = 2
   [[menu.header]]
     name = "Team"
     title = "Team behind Pragati"
     url = "/project/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Cultural"
     title = "Cultural Programs"
     url = "/talk/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Art"
     title = "Art Submissions"
     url = "/collection/"
-    weight = 4
-  #[[menu.header]]
-   # name = "Elements"
-    #title = "Element Page"
-    #url = "/elements/"
-    #weight = 6
+    weight = 5
+  [[menu.header]]
+    name = "Sponsors"
+    title = "Sponsors"
+    url = "/elements/"
+    weight = 6
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
